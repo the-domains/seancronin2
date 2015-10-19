@@ -1,6 +1,7 @@
 name: seancronin2
 favicon: null
-layout_spectrum: 0.8314355255570263
+layout_spectrum: 0
+typography_spectrum: 0.8047914837952703
 cta:
   domain: null
   bucket: null
@@ -23,4 +24,3 @@ purpose:
   - name: shares
     item: 5b5c138e-ae99-4e5f-8b24-9cacdc95c1e3
     url: null
-typography_spectrum: 0.8047914837952703
