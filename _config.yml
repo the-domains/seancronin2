@@ -1,7 +1,18 @@
+layout_spectrum: 0.7022620965726674
+typography_spectrum: 0.71053436701186
+color:
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.9681929729413241
+  lightness: 0.5786888988222927
+  saturation: 0.7642908054403961
+  rhythmicContrast: 0.16774670034646988
 name: seancronin2
 favicon: null
-layout_spectrum: 0.53244
-typography_spectrum: 0.26967
 cta:
   domain: null
   bucket: null
@@ -14,18 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#8d3d02'
-    - '#506c4f'
-    - '#a4d39b'
-    - '#81a87a'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.5
-purpose:
-  - name: shares
-    item: 5b5c138e-ae99-4e5f-8b24-9cacdc95c1e3
-    url: null
+purpose: []
